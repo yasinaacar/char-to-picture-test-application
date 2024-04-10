@@ -1,4 +1,4 @@
-Bu repo [Char To Picture API]() için oluşturulmuş basit bir web uygulamasıdır. 
+Bu repo [Char To Picture API](https://github.com/yasinaacar/char-to-picture) için oluşturulmuş basit bir web uygulamasıdır. 
 API'nin kullanımı için yukarıdaki linke tıklayarak veya aşağıdaki videoya göz atarak inceleyebilirsiniz.
 
 
